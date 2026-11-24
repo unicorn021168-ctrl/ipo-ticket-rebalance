@@ -1,0 +1,8 @@
+{
+  "confirmed_at": null,
+  "currency": "CNY",
+  "timezone": "Asia/Shanghai",
+  "schedule": {"day": 21, "time": "10:30", "non_trading_day": "next_trading_day"},
+  "policy": {"target_per_market": 200000, "buy_below": 180000, "buy_target": 200000, "hold_upper_inclusive": 220000, "sell_at_or_above": 250000, "sell_target": 220000, "dividend_reinvestment": false},
+  "holdings": []
+}
